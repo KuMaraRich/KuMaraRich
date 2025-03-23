@@ -83,7 +83,7 @@ particularly Cadillacs - "所有的伟大，源于一个勇敢的开始". I appr
 
 ## 🌟 Featured Projects
 
-### [Table Processor](https://github.com/KuMaraRich/table-processor)
+### [Haagen Horch](https://github.com/KuMaraRich/haagen_horch)
 
 A powerful Python library for processing HTML tables and converting them into dictionaries
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=000000&color=3776AB&cacheSeconds=1800) ![Data Processing](https://img.shields.io/badge/-Data_Processing-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=000000&color=150458&cacheSeconds=1800) ![Open Source](https://img.shields.io/badge/-Open_Source-FF6600?style=flat-square&logo=github&logoColor=white&labelColor=000000&color=FF6600&cacheSeconds=1800)
